@@ -59,7 +59,7 @@ Steps taken :
 - Building ML models such as Linear Regression, Decision Tree and KNN.
 - Visualization with Matplotlib and Seaborn.
 - Prediction
-- 
+
 Future Improvements :
 -This project is a stepping stone towards more robust earthquake prediction systems. As more data becomes available and machine learning techniques evolve, our model can be further refined to provide more accurate predictions. It has the potential to aid in disaster preparedness and risk mitigation efforts.
 
